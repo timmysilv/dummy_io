@@ -23,3 +23,12 @@ img {
     display: block;
     margin: 0 auto;
 }
+
+a {
+    background-color : navy;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
